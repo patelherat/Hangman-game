@@ -32,7 +32,6 @@ Num. of Remaining Tries: 7
 
 Enter a Letter: c
 <br/>
-
 Secret word: ***A*
 
 Misses: i, c
