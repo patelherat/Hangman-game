@@ -24,6 +24,7 @@ Num. of Remaining Tries: 7
 Enter a Letter: A
 
 <br/>
+
 Secret word: ***A*
 
 Misses: i
@@ -31,7 +32,9 @@ Misses: i
 Num. of Remaining Tries: 7
 
 Enter a Letter: c
+
 <br/>
+
 Secret word: ***A*
 
 Misses: i, c
@@ -43,6 +46,7 @@ Enter a Letter:
 
 If user enters ‘0’, program should terminate with no further output. If user guesses secret word, print “You guessed the secret word!” and the program terminates.
 <br/>
+
 Secret word: B R E A _
 
 Misses: i, c, f
@@ -50,6 +54,7 @@ Misses: i, c, f
 Num. of Remaining Tries: 3
 
 Enter a Letter: k
+
 <br/>
 
 Secret word: B R E A K
